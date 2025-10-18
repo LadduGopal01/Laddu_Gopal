@@ -481,7 +481,7 @@ export function ProductGrid() {
 
                 <div>
                   <label htmlFor="quantity" className="block text-sm font-semibold mb-2" style={{ color: '#0f3a5c' }}>
-                    Required Quantity (in kgs) <span className="text-red-500">*</span>
+                    Required Quantity (in MT) <span className="text-red-500">*</span>
                   </label>
                   <input
                     id="quantity"
